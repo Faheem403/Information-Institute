@@ -1,3 +1,4 @@
 We are learning DevOps with AWS
 We have completed Theory part of DevOps
-We have completed linux OS theory and also seen lab practicals on Linux 
+We have completed linux OS theory and also seen lab practicals on Linux
+Currently learning about Git and Github
