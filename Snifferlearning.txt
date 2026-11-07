@@ -1,1 +1,2 @@
 We are learning DevOps with AWS
+We have completed Theory part of DevOps
